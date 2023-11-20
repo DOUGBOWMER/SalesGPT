@@ -1,0 +1,20 @@
+{
+  "name": "defi.ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "llibp2p.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": " node ",
+    "setup": "npm install libp2p libp2p-websockets libp2p-webrtc-star libp2p-mplex"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "multiformats": "^12.1.3"
+  }
+}
